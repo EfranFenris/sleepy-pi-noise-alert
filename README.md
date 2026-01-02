@@ -12,7 +12,7 @@ The Raspberry Pi is subscribed to that feed using MQTT. When it receives the sig
 
 ## Demo video
 
-[Watch the demo on YouTube](https://youtube.com/shorts/a92Ik1VmTD4)
+[Watch the demo on YouTube](https://youtube.com/shorts/a92lK1VmTD4)
 
 
 ### Tech stack
