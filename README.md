@@ -14,6 +14,11 @@ The Raspberry Pi is subscribed to that feed using MQTT. When it receives the sig
 
 …so my brother gets a “please be quieter, I’m trying to sleep” alert.
 
+## Demo video
+
+https://youtube.com/shorts/a92lK1VmTD4
+
+
 ### Tech stack
 
 - Raspberry Pi (Python + `RPi.GPIO`)
